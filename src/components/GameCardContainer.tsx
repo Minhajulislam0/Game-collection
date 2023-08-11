@@ -7,7 +7,7 @@
 
 // function GameCardContainer({ children }: Props) {
 //   return (
-//     <Box width={"300px"} height={"300px"} borderRadius={10} overflow={"hidden"}>
+//     <Box width='100%' height={"300px"} borderRadius={10} overflow={"hidden"}>
 //       {children}
 //     </Box>
 //   );
